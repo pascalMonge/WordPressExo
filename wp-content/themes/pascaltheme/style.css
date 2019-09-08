@@ -1,0 +1,75 @@
+/*
+Theme Name: Pascal Theme
+Description: Basic Theme from Les Nuls
+Author: Lisa
+Author URI: http://
+*/
+body {
+    font-family: verdana, sans-serif;
+    font-size: 16 px;
+    color: #555;
+    background: #ffffff;
+}
+header.masthead {
+    width: 950px;
+    margin: 0 auto;
+    background: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+header.masthead h1 a{
+    color: white;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+header.masthead h2 {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #eee;
+}
+header.masthead nav {
+    background: #ffffff;
+    text-align: left;
+    height: 25px;
+    padding: 4px;
+}
+header.masthead nav ul {
+    list-style: none;
+    margin: 0;
+}
+#main {
+    width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+}
+main section {
+    width: 500px;
+    float: left;
+}
+#main .hentry {
+    margin: 10px 0;
+}
+aside.sidebar {
+    width: 290px;
+    margin: 0 15px;
+    float: right;
+}
+aside.sidebar ul {
+    list-style: none;
+}
+footer {
+    clear: both;
+    width: 960px;
+    height: 50px;
+    background: black;
+    color: white;
+    margin: 0 auto;
+}footer p {
+    text-align: center;
+    padding: 15px 0;
+}
+footer a {
+    color: white;
+}

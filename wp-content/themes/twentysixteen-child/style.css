@@ -1,0 +1,14 @@
+/*
+Theme Name: Twenty Sixteen Child 
+Description: Mon Theme enfant pour m'entrainer
+Author: Pascal avec l'aide de Lisa
+Version: 1.0
+Template: twentysixteen
+*/
+@import url('../twentysixteen/style.css');
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+body {
+    background: url('images/pexels-photo-88212.jpeg');
+}
